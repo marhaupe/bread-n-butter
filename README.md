@@ -83,23 +83,23 @@
 
 ## Tools
 
-| Description        | Link                                    |
-| ------------------ | --------------------------------------- |
-| Reinstall node     | https://github.com/brock/node-reinstall |
-| Lint Node          | https://github.com/SonarSource/SonarTS  |
-| Check Dependencies | https://github.com/depcheck/depcheck    |
-| Git Hooks for NPM  | https://github.com/typicode/husky       |
+| Description               | Link                                    |
+| ------------------------- | --------------------------------------- |
+| Reinstall node            | https://github.com/brock/node-reinstall |
+| Lint Node                 | https://github.com/SonarSource/SonarTS  |
+| Check Dependencies        | https://github.com/depcheck/depcheck    |
+| Git Hooks for NPM         | https://github.com/typicode/husky       |
+| HTML to different formats | https://wkhtmltopdf.org/                |
 
 # Misc
 
 [⬆️ Index](#bookmarks) 
 
-| Description               | Link                                              |
-| ------------------------- | ------------------------------------------------- |
-| DNS                       | https://www.namecheap.com                         |
-| Projects to learn stuff   | https://github.com/tuvtran/project-based-learning |
-| Code coverage             | https://codecov.io/                               |
-| HTML to different formats | https://wkhtmltopdf.org/                          |
+| Description             | Link                                              |
+| ----------------------- | ------------------------------------------------- |
+| DNS                     | https://www.namecheap.com                         |
+| Projects to learn stuff | https://github.com/tuvtran/project-based-learning |
+| Code coverage           | https://codecov.io/                               |
 
 
 # Reading      
