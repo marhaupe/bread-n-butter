@@ -94,11 +94,13 @@
 
 [⬆️ Index](#bookmarks) 
 
-| Description             | Link                                              |
-| ----------------------- | ------------------------------------------------- |
-| DNS                     | https://www.namecheap.com                         |
-| Projects to learn stuff | https://github.com/tuvtran/project-based-learning |
-| Code coverage           | https://codecov.io/                               |
+| Description               | Link                                              |
+| ------------------------- | ------------------------------------------------- |
+| DNS                       | https://www.namecheap.com                         |
+| Projects to learn stuff   | https://github.com/tuvtran/project-based-learning |
+| Code coverage             | https://codecov.io/                               |
+| HTML to different formats | https://wkhtmltopdf.org/                          |
+
 
 # Reading      
 
