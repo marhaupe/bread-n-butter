@@ -80,6 +80,7 @@
 | Headless chrome           | https://github.com/GoogleChrome/puppeteer  |
 | Next.js                   | https://github.com/zeit/next.js            |
 | Routing for Next.js       | https://github.com/fridays/next-routes     |
+| rm -rf for Node           | https://github.com/isaacs/rimraf           |
 
 ## Tools
 
