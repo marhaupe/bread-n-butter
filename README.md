@@ -29,7 +29,7 @@
 | Description                 | Link                                                  |
 | --------------------------- | ----------------------------------------------------- |
 | Free SVGs                   | https://undraw.co/                                    |
-| Free SVG and PNG Icons      | https://akveo.github.io/evaicons/                     |
+| Free SVG and PNG Icons      | https://akveo.github.io/eva-icons/                     |
 | Forms                       | https://github.com/jaredpalmer/formik                 |
 | Edit <head>                 | https://github.com/nfl/reacthelmlet                   |
 | CSS reset used in bootstrap | https://github.com/necolas/normalize.css              |
