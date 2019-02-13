@@ -21,6 +21,7 @@
 | Env                             | https://github.com/joho/godotenv            |
 | Generate QR Codes               | https://github.com/skip2/go-qrcode          |
 | Generate PDFs                   | https://github.com/jung-kurt/gofpdf         |
+| Desktop Apps                    | https://github.com/zserge/lorca             |
 
 # Web & React
 
