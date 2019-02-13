@@ -68,7 +68,6 @@
 | Description               | Link                                       |
 | ------------------------- | ------------------------------------------ |
 | Env                       | https://github.com/motdotla/dotenv         |
-| JWTs for node             | https://github.com/auth0/node-jsonwebtoken |
 | Serve static files        | https://github.com/zeit/serve              |
 | Node Compiler             | https://github.com/zeit/ncc                |
 | GraphQL to Database magic | https://github.com/prisma/prisma           |
@@ -138,12 +137,13 @@
 
 | Description           | Link                                          |
 | --------------------- | --------------------------------------------- |
-| Awesome VIM config    | https://github.com/amix/vimrc                 |
-| AG                    | https://github.com/ggreer/the_silver_searcher |
+| Awesome vim config    | https://github.com/amix/vimrc                 |
+| ag                    | https://github.com/ggreer/the_silver_searcher |
 | Code Transformer      | https://github.com/transform-it/transform-www |
 | Explore Docker Images | https://github.com/wagoodman/dive             |
 | Reverse-Proxy         | https://github.com/containous/traefik         |
-| ZSH Framework         | https://github.com/robbyrussell/oh-my-zsh     |
+| Zsh Framework         | https://github.com/robbyrussell/oh-my-zsh     |
 | Code Screenshots      | https://carbon.now.sh                         |
 | Tools of the trade    | https://github.com/cjbarber/ToolsOfTheTrade   |
 | Free for dev          | https://github.com/ripienaar/free-for-dev     |
+| Authentication        | https://auth0.com/                            | 
