@@ -4,7 +4,7 @@
 
 # Go
 
-[⬆️ Index](#bookmarks)
+⬆️ [Index](#bookmarks)
 
 | Description                     | Link                                        |
 | ------------------------------- | ------------------------------------------- |
@@ -25,7 +25,7 @@
 
 # Web & React
 
-[⬆️ Index](#bookmarks)
+⬆️ [Index](#bookmarks)
 
 | Description                 | Link                                                  |
 | --------------------------- | ----------------------------------------------------- |
@@ -44,7 +44,7 @@
 
 # React Native
 
-[⬆️ Index](#bookmarks)                                                  
+⬆️ [Index](#bookmarks)                                                  
 
 | Description       | Link                                                           |
 | ----------------- | -------------------------------------------------------------- |
@@ -64,7 +64,7 @@
 
 # Node 
 
-[⬆️ Index](#bookmarks)                                                 
+⬆️ [Index](#bookmarks)                                                 
 
 | Description               | Link                                      |
 | ------------------------- | ----------------------------------------- |
@@ -96,7 +96,7 @@
 
 # Misc
 
-[⬆️ Index](#bookmarks) 
+⬆️ [Index](#bookmarks) 
 
 | Description             | Link                                              |
 | ----------------------- | ------------------------------------------------- |
@@ -107,7 +107,7 @@
 
 # Reading      
 
-[⬆️ Index](#bookmarks)                                               
+⬆️ [Index](#bookmarks)                                               
 
 | Description            | Link                                                |
 | ---------------------- | --------------------------------------------------- |
@@ -123,7 +123,7 @@
 
 # Cheatsheets 
 
-[⬆️ Index](#bookmarks)
+⬆️ [Index](#bookmarks)
 
 | Description        | Link                                                 |
 | ------------------ | ---------------------------------------------------- |
@@ -135,7 +135,7 @@
 
 # Tools         
 
-[⬆️ Index](#bookmarks)
+⬆️ [Index](#bookmarks)
 
 | Description           | Link                                          |
 | --------------------- | --------------------------------------------- |
