@@ -82,6 +82,7 @@
 | Next.js                   | https://github.com/zeit/next.js           |
 | Routing for Next.js       | https://github.com/fridays/next-routes    |
 | rm -rf for Node           | https://github.com/isaacs/rimraf          |
+| JavaScript Parser         | https://github.com/acornjs/acorn          |
 
 ## Tools
 
