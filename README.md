@@ -30,7 +30,7 @@
 | Description                 | Link                                                  |
 | --------------------------- | ----------------------------------------------------- |
 | Free SVGs                   | https://undraw.co/                                    |
-| Free SVG and PNG Icons      | https://akveo.github.io/eva-icons/                     |
+| Free SVG and PNG Icons      | https://akveo.github.io/eva-icons/                    |
 | Forms                       | https://github.com/jaredpalmer/formik                 |
 | Edit <head>                 | https://github.com/nfl/reacthelmlet                   |
 | CSS reset used in bootstrap | https://github.com/necolas/normalize.css              |
@@ -57,30 +57,31 @@
 
 ## Tools
 
-| Description    | Link                       |
-| -------------- | -------------------------- |
-| Redux Debugger | http://remotedev.io/local/ |
+| Description    | Link                                             |
+| -------------- | ------------------------------------------------ |
+| Redux Debugger | http://remotedev.io/local/                       |
+| Link Assets    | https://github.com/unimonkiez/react-native-asset |
 
 # Node 
 
 [⬆️ Index](#bookmarks)                                                 
 
-| Description               | Link                                       |
-| ------------------------- | ------------------------------------------ |
-| Env                       | https://github.com/motdotla/dotenv         |
-| Serve static files        | https://github.com/zeit/serve              |
-| Node Compiler             | https://github.com/zeit/ncc                |
-| GraphQL to Database magic | https://github.com/prisma/prisma           |
-| Server for easy SSR       | https://github.com/jaredpalmer/razzle      |
-| Webserver                 | https://github.com/koajs/koa               |
-| Polyfill for `fetch`      | https://github.com/developit/unfetch       |
-| Memoizing redux selectors | https://github.com/reduxjs/reselect        |
-| Redux bindings for react  | https://github.com/reduxjs/react-redux     |
-| Node Debugger             | https://github.com/GoogleChromeLabs/ndb    |
-| Headless chrome           | https://github.com/GoogleChrome/puppeteer  |
-| Next.js                   | https://github.com/zeit/next.js            |
-| Routing for Next.js       | https://github.com/fridays/next-routes     |
-| rm -rf for Node           | https://github.com/isaacs/rimraf           |
+| Description               | Link                                      |
+| ------------------------- | ----------------------------------------- |
+| Env                       | https://github.com/motdotla/dotenv        |
+| Serve static files        | https://github.com/zeit/serve             |
+| Node Compiler             | https://github.com/zeit/ncc               |
+| GraphQL to Database magic | https://github.com/prisma/prisma          |
+| Server for easy SSR       | https://github.com/jaredpalmer/razzle     |
+| Webserver                 | https://github.com/koajs/koa              |
+| Polyfill for `fetch`      | https://github.com/developit/unfetch      |
+| Memoizing redux selectors | https://github.com/reduxjs/reselect       |
+| Redux bindings for react  | https://github.com/reduxjs/react-redux    |
+| Node Debugger             | https://github.com/GoogleChromeLabs/ndb   |
+| Headless chrome           | https://github.com/GoogleChrome/puppeteer |
+| Next.js                   | https://github.com/zeit/next.js           |
+| Routing for Next.js       | https://github.com/fridays/next-routes    |
+| rm -rf for Node           | https://github.com/isaacs/rimraf          |
 
 ## Tools
 
@@ -146,4 +147,4 @@
 | Code Screenshots      | https://carbon.now.sh                         |
 | Tools of the trade    | https://github.com/cjbarber/ToolsOfTheTrade   |
 | Free for dev          | https://github.com/ripienaar/free-for-dev     |
-| Authentication        | https://auth0.com/                            | 
+| Authentication        | https://auth0.com/                            |
