@@ -25,10 +25,11 @@
 
 ## Misc
 
-| Description | Link                                          |
-| ----------- | --------------------------------------------- |
-| Reading     | https://github.com/enocom/gopher-reading-list |
-| Go Koans    | https://github.com/cdarwin/go-koans           |
+| Description  | Link                                          |
+| ------------ | --------------------------------------------- |
+| Reading      | https://github.com/enocom/gopher-reading-list |
+| Go Koans     | https://github.com/cdarwin/go-koans           |
+| Slice Tricks | https://github.com/golang/go/wiki/SliceTricks |
 
 # Design
 
@@ -107,6 +108,7 @@
 | Check Dependencies        | https://github.com/depcheck/depcheck    |
 | Git Hooks for NPM         | https://github.com/typicode/husky       |
 | HTML to different formats | https://wkhtmltopdf.org/                |
+| Benchmarking              | https://jsperf.com/                     |
 
 # Misc
 
