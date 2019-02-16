@@ -23,19 +23,28 @@
 | Generate PDFs                   | https://github.com/jung-kurt/gofpdf         |
 | Desktop Apps                    | https://github.com/zserge/lorca             |
 
+## Misc
+
+| Description | Link                                          |
+| ----------- | --------------------------------------------- |
+| Reading     | https://github.com/enocom/gopher-reading-list |
+| Go Koans    | https://github.com/cdarwin/go-koans           |
+
 # Design
-| Web and App Design Patterns | https://pttrns.com/                     |
-| Free SVGs                   | https://undraw.co/                      |
-| Free SVG and PNG Icons      | https://akveo.github.io/eva-icons/      |
-| Design Tool                 | https://www.figma.com/                  |
+
+| Description                 | Link                               |
+| --------------------------- | ---------------------------------- |
+| Web and App Design Patterns | https://pttrns.com/                |
+| Free SVGs                   | https://undraw.co/                 |
+| Free SVG and PNG Icons      | https://akveo.github.io/eva-icons/ |
+| Design Tool                 | https://www.figma.com/             |
 
 # React
 
 ⬆️ [Index](#bookmarks)
 
-| Description | Link |
-| ----------- | ---- |
-
+| Description                 | Link                                                  |
+| --------------------------- | ----------------------------------------------------- |
 | Forms                       | https://github.com/jaredpalmer/formik                 |
 | Edit <head>                 | https://github.com/nfl/reacthelmlet                   |
 | CSS reset used in bootstrap | https://github.com/necolas/normalize.css              |
@@ -156,3 +165,4 @@
 | Free for dev          | https://github.com/ripienaar/free-for-dev     |
 | Authentication        | https://auth0.com/                            |
 | Document converter    | https://pandoc.org/                           |
+| Tunnel                | https://ngrok.com/                            |
