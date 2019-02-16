@@ -1,6 +1,6 @@
 # Bookmarks
 
-[Go](#go) | [Web & React](#go) | [React Native](#reactnative) | [Node](#node) | [Misc](#misc) | [Reading](#reading) | [Tools](#tools)
+[Go](#go) | [Web & React](#go) | [React Native](#reactnative) | [Node](#node) | [Misc](#misc) | [Reading](#reading) | [Tools](#tools)
 
 # Go
 
@@ -23,14 +23,19 @@
 | Generate PDFs                   | https://github.com/jung-kurt/gofpdf         |
 | Desktop Apps                    | https://github.com/zserge/lorca             |
 
-# Web & React
+# Design
+| Web and App Design Patterns | https://pttrns.com/                     |
+| Free SVGs                   | https://undraw.co/                      |
+| Free SVG and PNG Icons      | https://akveo.github.io/eva-icons/      |
+| Design Tool                 | https://www.figma.com/                  |
+
+# React
 
 ⬆️ [Index](#bookmarks)
 
-| Description                 | Link                                                  |
-| --------------------------- | ----------------------------------------------------- |
-| Free SVGs                   | https://undraw.co/                                    |
-| Free SVG and PNG Icons      | https://akveo.github.io/eva-icons/                    |
+| Description | Link |
+| ----------- | ---- |
+
 | Forms                       | https://github.com/jaredpalmer/formik                 |
 | Edit <head>                 | https://github.com/nfl/reacthelmlet                   |
 | CSS reset used in bootstrap | https://github.com/necolas/normalize.css              |
@@ -82,7 +87,7 @@
 | Next.js                   | https://github.com/zeit/next.js           |
 | Routing for Next.js       | https://github.com/fridays/next-routes    |
 | rm -rf for Node           | https://github.com/isaacs/rimraf          |
-| JavaScript Parser         | https://github.com/acornjs/acorn          |
+| JavaScript Parser         | https://github.com/acornjs/acorn          |
 
 ## Tools
 
@@ -120,6 +125,7 @@
 | Awesome!               | https://github.com/sindresorhus/awesome             |
 | 30 seconds of code     | https://github.com/30-seconds/30-seconds-of-code    |
 | Typescript book        | https://github.com/basarat/typescript-book          |
+| Algorithms             | http://jeffe.cs.illinois.edu/teaching/algorithms/   |
 
 # Cheatsheets 
 
@@ -149,3 +155,4 @@
 | Tools of the trade    | https://github.com/cjbarber/ToolsOfTheTrade   |
 | Free for dev          | https://github.com/ripienaar/free-for-dev     |
 | Authentication        | https://auth0.com/                            |
+| Document converter    | https://pandoc.org/                           |
