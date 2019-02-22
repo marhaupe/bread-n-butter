@@ -59,6 +59,13 @@
 | Routing with React          | https://github.com/ReactTraining/react-router         |
 | Create PDF Files            | https://github.com/diegomura/react-pdf                |
 
+## Blogs
+
+| Description        | Link                                      |
+| ------------------ | ----------------------------------------- |
+| Overreacted        | https://overreacted.io/                   |
+| This Week In React | https://this-week-in-react.org/issues/21/ |
+
 # React Native
 
 ⬆️ [Index](#bookmarks)                                                  
@@ -66,7 +73,7 @@
 | Description       | Link                                                           |
 | ----------------- | -------------------------------------------------------------- |
 | Lottie Animations | https://github.com/react-native-community/lottie-react-native  |
-| Env               | https://github.com/luggit/react-native-config                  |
+| Loading Envs      | https://github.com/luggit/react-native-config                  |
 | Navigation        | https://github.com/react-navigation/react-navigation           |
 | UI Elements       | https://github.com/react-native-training/react-native-elements |
 | UI Elements       | https://github.com/GeekyAnts/NativeBase                        |
@@ -156,19 +163,19 @@
 
 ⬆️ [Index](#bookmarks)
 
-| Description           | Link                                          |
-| --------------------- | --------------------------------------------- |
-| Awesome vim config    | https://github.com/amix/vimrc                 |
-| ag                    | https://github.com/ggreer/the_silver_searcher |
-| Code Transformer      | https://github.com/transform-it/transform-www |
-| Explore Docker Images | https://github.com/wagoodman/dive             |
-| Reverse-Proxy         | https://github.com/containous/traefik         |
-| Zsh Framework         | https://github.com/robbyrussell/oh-my-zsh     |
-| Code Screenshots      | https://carbon.now.sh                         |
-| Tools of the trade    | https://github.com/cjbarber/ToolsOfTheTrade   |
-| Free for dev          | https://github.com/ripienaar/free-for-dev     |
-| Authentication        | https://auth0.com/                            |
-| Document converter    | https://pandoc.org/                           |
-| Tunnel                | https://ngrok.com/                            |
-| Online IDE            | https://repl.it                               |
-| Android Assets | https://romannurik.github.io/AndroidAssetStudio/ |
+| Description           | Link                                             |
+| --------------------- | ------------------------------------------------ |
+| Awesome vim config    | https://github.com/amix/vimrc                    |
+| ag                    | https://github.com/ggreer/the_silver_searcher    |
+| Code Transformer      | https://github.com/transform-it/transform-www    |
+| Explore Docker Images | https://github.com/wagoodman/dive                |
+| Reverse-Proxy         | https://github.com/containous/traefik            |
+| Zsh Framework         | https://github.com/robbyrussell/oh-my-zsh        |
+| Code Screenshots      | https://carbon.now.sh                            |
+| Tools of the trade    | https://github.com/cjbarber/ToolsOfTheTrade      |
+| Free for dev          | https://github.com/ripienaar/free-for-dev        |
+| Authentication        | https://auth0.com/                               |
+| Document converter    | https://pandoc.org/                              |
+| Tunnel                | https://ngrok.com/                               |
+| Online IDE            | https://repl.it                                  |
+| Android Assets        | https://romannurik.github.io/AndroidAssetStudio/ |
