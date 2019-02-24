@@ -1,6 +1,6 @@
 # Bookmarks
 
-[Go](#go) | [Web & React](#go) | [React Native](#reactnative) | [Node](#node) | [Misc](#misc) | [Reading](#reading) | [Tools](#tools)
+[Go](#go) | | [Design](#design) | [React](#react) | [React Native](#reactnative) | [Node](#node) | [Misc](#misc) | [Reading](#reading) | | [Cheatsheets](#cheatsheets | )[Tools](#tools)
 
 # Go
 
