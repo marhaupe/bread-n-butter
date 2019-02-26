@@ -22,6 +22,7 @@
 | Web Framework                   | https://github.com/gingonic/gin             |
 | Retrieve JSON values            | https://github.com/tidwall/gjson            |
 | CLI Tool                        | https://github.com/spf13/cobra              |
+| CLI Prompts                     | https://github.com/manifoldco/promptui      | 
 | Generate Server from GQL Schema | https://github.com/99designs/gqlgen         |
 | Pack files in binary            | https://github.com/gobuffalo/packr          |
 | HTTP Router                     | https://github.com/julienschmidt/httprouter |
