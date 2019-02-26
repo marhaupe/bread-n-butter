@@ -1,14 +1,19 @@
 # Bookmarks
 
-- [Go](#go) 
-- [Design](#design) 
+- [Bookmarks](#bookmarks)
+- [Go](#go)
+  - [Misc](#misc)
+- [Design](#design)
 - [React](#react)
-- [React Native](#reactnative) 
-- [Node](#node) 
-- [Misc](#misc) 
+  - [Blogs](#blogs)
+- [React Native](#react-native)
+  - [Tools](#tools)
+- [Node](#node)
+  - [Tools](#tools-1)
+- [Misc](#misc-1)
 - [Reading](#reading)
 - [Cheatsheets](#cheatsheets)
-- [Tools](#tools)
+- [Tools](#tools-2)
 
 # Go
 
@@ -22,7 +27,7 @@
 | Web Framework                   | https://github.com/gingonic/gin             |
 | Retrieve JSON values            | https://github.com/tidwall/gjson            |
 | CLI Tool                        | https://github.com/spf13/cobra              |
-| CLI Prompts                     | https://github.com/manifoldco/promptui      | 
+| CLI Prompts                     | https://github.com/manifoldco/promptui      |
 | Generate Server from GQL Schema | https://github.com/99designs/gqlgen         |
 | Pack files in binary            | https://github.com/gobuffalo/packr          |
 | HTTP Router                     | https://github.com/julienschmidt/httprouter |
