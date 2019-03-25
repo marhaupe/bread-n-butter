@@ -1,3 +1,5 @@
+ZSH_THEME="af-magic"
+
 alias avd='/Users/haupma/Library/Android/sdk/emulator/emulator -avd Nexus_5X_API_28_x86'
 alias avd="~/Library/Android/sdk/emulator/emulator -avd Pixel_2_API_26"
 alias adb-restart='sudo adb kill-server && sudo adb start-server'
@@ -15,9 +17,6 @@ function docker-killeverycontainer() {
     docker kill $(docker ps -q) 
 }
 
-function docker-expose() {
-    docker run -p $1:$1 $2 
-}
 function fuckthisport() {
     kill -9 $(lsof -ti :$1)
 } 
@@ -25,15 +24,11 @@ function fuckthisport() {
 function ezpush() {
     git add -A
     if [ $# -eq 0 ]; then
-        git commit -m "Work in progress" && git push
+        git commit && git push
 
     elif [ $# -eq 1 ]; then
         git commit -m "$1" && git push
     fi
-}
-
-function for-dev() {
-    ag $1 ~/Entwicklung/privat/for-dev
 }
 
 function ezcommit() {
@@ -46,4 +41,6 @@ function ezcommit() {
     fi
 }
 
-export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+function for-dev() {
+    ag $1 ~/Entwicklung/privat/for-dev
+}
