@@ -14,6 +14,7 @@
 - [Reading](#reading)
 - [Cheatsheets](#cheatsheets)
 - [Tools](#tools-2)
+- [Hosting](#hosting)
 
 # Go
 
@@ -25,16 +26,12 @@
 | Code Generator                  | https://github.com/dave/jennifer            |
 | Web Framework                   | https://github.com/labstack/echo            |
 | Web Framework                   | https://github.com/gingonic/gin             |
+| HTTP Router                     | https://github.com/julienschmidt/httprouter |
 | Retrieve JSON values            | https://github.com/tidwall/gjson            |
 | CLI Tool                        | https://github.com/spf13/cobra              |
 | CLI Prompts                     | https://github.com/manifoldco/promptui      |
 | Generate Server from GQL Schema | https://github.com/99designs/gqlgen         |
 | Pack files in binary            | https://github.com/gobuffalo/packr          |
-| HTTP Router                     | https://github.com/julienschmidt/httprouter |
-| Dependency Management           | https://github.com/golang/dep               |
-| Env                             | https://github.com/joho/godotenv            |
-| Generate QR Codes               | https://github.com/skip2/go-qrcode          |
-| Generate PDFs                   | https://github.com/jung-kurt/gofpdf         |
 | Desktop Apps                    | https://github.com/zserge/lorca             |
 
 ## Misc
@@ -90,8 +87,10 @@
 | Loading Envs      | https://github.com/luggit/react-native-config                  |
 | Navigation        | https://github.com/react-navigation/react-navigation           |
 | UI Elements       | https://github.com/react-native-training/react-native-elements |
-| UI Elements       | https://github.com/GeekyAnts/NativeBase                        |
 | Database          | https://github.com/Nozbe/WatermelonDB                          |
+| Gestures          | https://github.com/kmagiera/react-native-gesture-handler       |
+| Animated          | https://github.com/kmagiera/react-native-reanimated            |
+| Fluid Transitions | https://github.com/fram-x/FluidTransitions                     |
 
 ## Tools
 
@@ -116,7 +115,7 @@
 | Memoizing redux selectors | https://github.com/reduxjs/reselect       |
 | Redux bindings for react  | https://github.com/reduxjs/react-redux    |
 | Node Debugger             | https://github.com/GoogleChromeLabs/ndb   |
-| Headless chrome           | https://github.com/GoogleChrome/puppeteer |
+| Headless Chrome           | https://github.com/GoogleChrome/puppeteer |
 | Next.js                   | https://github.com/zeit/next.js           |
 | Routing for Next.js       | https://github.com/fridays/next-routes    |
 | rm -rf for Node           | https://github.com/isaacs/rimraf          |
@@ -186,10 +185,19 @@
 | Reverse-Proxy         | https://github.com/containous/traefik            |
 | Zsh Framework         | https://github.com/robbyrussell/oh-my-zsh        |
 | Code Screenshots      | https://carbon.now.sh                            |
-| Tools of the trade    | https://github.com/cjbarber/ToolsOfTheTrade      |
 | Free for dev          | https://github.com/ripienaar/free-for-dev        |
-| Authentication        | https://auth0.com/                               |
 | Document converter    | https://pandoc.org/                              |
 | Tunnel                | https://ngrok.com/                               |
 | Online IDE            | https://repl.it                                  |
 | Android Assets        | https://romannurik.github.io/AndroidAssetStudio/ |
+
+# Hosting
+
+⬆️ [Index](#bookmarks)
+
+| Description | Link                                 |
+| ----------- | ------------------------------------ |
+| Caprover    | https://github.com/caprover/caprover |
+| Flynn       | https://github.com/flynn/flynn       |
+| Dokku       | https://github.com/dokku/dokku       |
+| Faas        | https://github.com/openfaas/faas     |
