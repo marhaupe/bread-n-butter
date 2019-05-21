@@ -96,8 +96,9 @@
 
 | Description    | Link                                             |
 | -------------- | ------------------------------------------------ |
-| Redux Debugger | http://remotedev.io/local/                       |
-| Link Assets    | https://github.com/unimonkiez/react-native-asset |
+| Debugger       | https://github.com/jhen0409/react-native-debugger                       |
+| Stream Device  | https://github.com/Genymobile/scrcpy |
+
 
 # Node 
 
