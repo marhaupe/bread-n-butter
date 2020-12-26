@@ -50,6 +50,8 @@
 | --------------------------- | ---------------------------------- |
 | Web and App Design Patterns | https://pttrns.com/                |
 | Free SVGs                   | https://undraw.co/                 |
+| Free SVGs                   | https://www.manypixels.co/gallery/ |
+| Free Icons                  | https://thenounproject.com         |
 | Free Images                 | https://pixabay.com/               |
 | Free SVG and PNG Icons      | https://akveo.github.io/eva-icons/ |
 | Free Images      | https://unsplash.com/ |
@@ -63,13 +65,14 @@
 | Description                 | Link                                                  |
 | --------------------------- | ----------------------------------------------------- |
 | Forms                       | https://github.com/jaredpalmer/formik                 |
-| Edit <head>                 | https://github.com/nfl/reacthelmlet                   |
+| Edit `<head>`                 | https://github.com/nfl/reacthelmlet                   |
 | CSS reset used in bootstrap | https://github.com/necolas/normalize.css              |
 | CSS-in-JS                   | https://github.com/styledcomponents/styled-components |
 | Static Site Generator       | https://github.com/gatsbyjs/gatsby                    |
 | Apollo GraphQL              | https://github.com/apollographql/apolloclient         |
 | Easy Animations             | https://github.com/reactspring/react-spring           |
 | Easy Gesture Detection      | https://github.com/reactspring/react-with-gesture     |
+| Easy Gesture Detection (Hooks)      | https://github.com/reactspring/react-use-gesture     |
 | Routing with React          | https://github.com/ReactTraining/react-router         |
 | Create PDF Files            | https://github.com/diegomura/react-pdf                |
 
@@ -112,16 +115,10 @@
 | Env                       | https://github.com/motdotla/dotenv        |
 | Serve static files        | https://github.com/zeit/serve             |
 | Node Compiler             | https://github.com/zeit/ncc               |
-| GraphQL to Database magic | https://github.com/prisma/prisma          |
 | Server for easy SSR       | https://github.com/jaredpalmer/razzle     |
-| Webserver                 | https://github.com/koajs/koa              |
-| Polyfill for `fetch`      | https://github.com/developit/unfetch      |
-| Memoizing redux selectors | https://github.com/reduxjs/reselect       |
-| Redux bindings for react  | https://github.com/reduxjs/react-redux    |
 | Node Debugger             | https://github.com/GoogleChromeLabs/ndb   |
 | Headless Chrome           | https://github.com/GoogleChrome/puppeteer |
 | Next.js                   | https://github.com/zeit/next.js           |
-| Routing for Next.js       | https://github.com/fridays/next-routes    |
 | rm -rf for Node           | https://github.com/isaacs/rimraf          |
 | JavaScript Parser         | https://github.com/acornjs/acorn          |
 
@@ -130,7 +127,6 @@
 | Description               | Link                                    |
 | ------------------------- | --------------------------------------- |
 | Reinstall node            | https://github.com/brock/node-reinstall |
-| Lint Node                 | https://github.com/SonarSource/SonarTS  |
 | Check Dependencies        | https://github.com/depcheck/depcheck    |
 | Git Hooks for NPM         | https://github.com/typicode/husky       |
 | HTML to different formats | https://wkhtmltopdf.org/                |
